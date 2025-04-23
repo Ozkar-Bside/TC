@@ -19,7 +19,7 @@ Test_AI/
 ├── logs/                     # Carpeta para los archivos de registro de la aplicación.
 │   └── app.log               # Archivo de log donde se registran los eventos y errores de la aplicación.
 
-Estructura:
+Estructura del Proyecto.
 
 Explicación de la Estructura del Proyecto
 main.py
